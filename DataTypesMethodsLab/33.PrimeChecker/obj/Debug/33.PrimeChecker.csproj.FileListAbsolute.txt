@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\33.PrimeChecker\bin\Debug\33.PrimeChecker.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\33.PrimeChecker\bin\Debug\33.PrimeChecker.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\33.PrimeChecker\bin\Debug\33.PrimeChecker.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\33.PrimeChecker\obj\Debug\33.PrimeChecker.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\33.PrimeChecker\obj\Debug\33.PrimeChecker.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\33.PrimeChecker\obj\Debug\33.PrimeChecker.csprojResolveAssemblyReference.cache

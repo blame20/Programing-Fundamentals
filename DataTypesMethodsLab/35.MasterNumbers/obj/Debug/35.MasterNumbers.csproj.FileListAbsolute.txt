@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\35.MasterNumbers\bin\Debug\35.MasterNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\35.MasterNumbers\bin\Debug\35.MasterNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\35.MasterNumbers\bin\Debug\35.MasterNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\35.MasterNumbers\obj\Debug\35.MasterNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\35.MasterNumbers\obj\Debug\35.MasterNumbers.pdb

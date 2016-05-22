@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\16.StringsAndObjects\bin\Debug\16.StringsAndObjects.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\16.StringsAndObjects\bin\Debug\16.StringsAndObjects.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\16.StringsAndObjects\bin\Debug\16.StringsAndObjects.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\16.StringsAndObjects\obj\Debug\16.StringsAndObjects.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\16.StringsAndObjects\obj\Debug\16.StringsAndObjects.pdb

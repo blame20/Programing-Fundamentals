@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\22.RectangleProperties\bin\Debug\22.RectangleProperties.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\22.RectangleProperties\bin\Debug\22.RectangleProperties.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\22.RectangleProperties\bin\Debug\22.RectangleProperties.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\22.RectangleProperties\obj\Debug\22.RectangleProperties.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\22.RectangleProperties\obj\Debug\22.RectangleProperties.pdb

@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\01.InstructionSet\bin\Debug\01.InstructionSet.exe.config
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\01.InstructionSet\bin\Debug\01.InstructionSet.exe
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\01.InstructionSet\bin\Debug\01.InstructionSet.pdb
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\01.InstructionSet\obj\Debug\01.InstructionSet.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\01.InstructionSet\obj\Debug\01.InstructionSet.exe
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\01.InstructionSet\obj\Debug\01.InstructionSet.pdb

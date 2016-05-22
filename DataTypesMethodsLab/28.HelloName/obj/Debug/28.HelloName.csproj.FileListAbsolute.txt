@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\28.HelloName\bin\Debug\28.HelloName.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\28.HelloName\bin\Debug\28.HelloName.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\28.HelloName\bin\Debug\28.HelloName.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\28.HelloName\obj\Debug\28.HelloName.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\28.HelloName\obj\Debug\28.HelloName.pdb

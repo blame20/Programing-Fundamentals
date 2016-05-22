@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\18.EmployeeData\bin\Debug\18.EmployeeData.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\18.EmployeeData\bin\Debug\18.EmployeeData.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\18.EmployeeData\bin\Debug\18.EmployeeData.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\18.EmployeeData\obj\Debug\18.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\18.EmployeeData\obj\Debug\18.EmployeeData.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\18.EmployeeData\obj\Debug\18.EmployeeData.pdb

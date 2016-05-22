@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\20.CenturiesToNanoseconds\bin\Debug\20.CenturiesToNanoseconds.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\20.CenturiesToNanoseconds\bin\Debug\20.CenturiesToNanoseconds.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\20.CenturiesToNanoseconds\bin\Debug\20.CenturiesToNanoseconds.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\20.CenturiesToNanoseconds\obj\Debug\20.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\20.CenturiesToNanoseconds\obj\Debug\20.CenturiesToNanoseconds.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\20.CenturiesToNanoseconds\obj\Debug\20.CenturiesToNanoseconds.pdb

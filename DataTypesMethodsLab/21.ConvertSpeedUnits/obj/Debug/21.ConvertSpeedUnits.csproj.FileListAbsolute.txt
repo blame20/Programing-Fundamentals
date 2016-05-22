@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\21.ConvertSpeedUnits\bin\Debug\21.ConvertSpeedUnits.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\21.ConvertSpeedUnits\bin\Debug\21.ConvertSpeedUnits.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\21.ConvertSpeedUnits\bin\Debug\21.ConvertSpeedUnits.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\21.ConvertSpeedUnits\obj\Debug\21.ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\21.ConvertSpeedUnits\obj\Debug\21.ConvertSpeedUnits.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\21.ConvertSpeedUnits\obj\Debug\21.ConvertSpeedUnits.pdb

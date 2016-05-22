@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\34.PrimesGivenRange\bin\Debug\34.PrimesGivenRange.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\34.PrimesGivenRange\bin\Debug\34.PrimesGivenRange.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\34.PrimesGivenRange\bin\Debug\34.PrimesGivenRange.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\34.PrimesGivenRange\obj\Debug\34.PrimesGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\34.PrimesGivenRange\obj\Debug\34.PrimesGivenRange.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\34.PrimesGivenRange\obj\Debug\34.PrimesGivenRange.pdb

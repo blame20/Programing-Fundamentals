@@ -1,0 +1,7 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\27.DifferentIntegersSize\bin\Debug\27.DifferentIntegersSize.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\27.DifferentIntegersSize\bin\Debug\27.DifferentIntegersSize.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\27.DifferentIntegersSize\bin\Debug\27.DifferentIntegersSize.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\27.DifferentIntegersSize\obj\Debug\27.DifferentIntegersSize.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\27.DifferentIntegersSize\obj\Debug\27.DifferentIntegersSize.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\27.DifferentIntegersSize\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\27.DifferentIntegersSize\obj\Debug\27.DifferentIntegersSize.csprojResolveAssemblyReference.cache

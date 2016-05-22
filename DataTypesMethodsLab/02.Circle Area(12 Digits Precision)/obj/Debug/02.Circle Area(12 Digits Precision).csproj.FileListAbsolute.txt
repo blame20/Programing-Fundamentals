@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\02.Circle Area(12 Digits Precision)\bin\Debug\02.Circle Area(12 Digits Precision).exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\02.Circle Area(12 Digits Precision)\bin\Debug\02.Circle Area(12 Digits Precision).exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\02.Circle Area(12 Digits Precision)\bin\Debug\02.Circle Area(12 Digits Precision).pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\02.Circle Area(12 Digits Precision)\obj\Debug\02.Circle Area(12 Digits Precision).csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\02.Circle Area(12 Digits Precision)\obj\Debug\02.Circle Area(12 Digits Precision).exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\02.Circle Area(12 Digits Precision)\obj\Debug\02.Circle Area(12 Digits Precision).pdb

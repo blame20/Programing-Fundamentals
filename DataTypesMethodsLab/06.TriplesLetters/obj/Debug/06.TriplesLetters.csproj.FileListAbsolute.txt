@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\06.TriplesLetters\bin\Debug\06.TriplesLetters.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\06.TriplesLetters\bin\Debug\06.TriplesLetters.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\06.TriplesLetters\bin\Debug\06.TriplesLetters.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\06.TriplesLetters\obj\Debug\06.TriplesLetters.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\06.TriplesLetters\obj\Debug\06.TriplesLetters.pdb

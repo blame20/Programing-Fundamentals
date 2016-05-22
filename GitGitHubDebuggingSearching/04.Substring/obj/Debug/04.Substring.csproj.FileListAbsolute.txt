@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\04.Substring\bin\Debug\04.Substring.exe.config
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\04.Substring\bin\Debug\04.Substring.exe
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\04.Substring\bin\Debug\04.Substring.pdb
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\04.Substring\obj\Debug\04.Substring.exe
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\04.Substring\obj\Debug\04.Substring.pdb

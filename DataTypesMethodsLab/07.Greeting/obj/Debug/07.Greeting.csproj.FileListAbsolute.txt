@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\07.Greeting\bin\Debug\07.Greeting.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\07.Greeting\bin\Debug\07.Greeting.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\07.Greeting\bin\Debug\07.Greeting.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\07.Greeting\obj\Debug\07.Greeting.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\07.Greeting\obj\Debug\07.Greeting.pdb

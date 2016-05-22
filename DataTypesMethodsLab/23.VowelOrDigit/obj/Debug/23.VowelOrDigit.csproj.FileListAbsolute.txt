@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\23.VowelOrDigit\bin\Debug\23.VowelOrDigit.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\23.VowelOrDigit\bin\Debug\23.VowelOrDigit.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\23.VowelOrDigit\bin\Debug\23.VowelOrDigit.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\23.VowelOrDigit\obj\Debug\23.VowelOrDigit.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\23.VowelOrDigit\obj\Debug\23.VowelOrDigit.pdb

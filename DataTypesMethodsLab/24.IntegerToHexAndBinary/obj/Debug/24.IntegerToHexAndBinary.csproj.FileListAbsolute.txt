@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\24.IntegerToHexAndBinary\bin\Debug\24.IntegerToHexAndBinary.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\24.IntegerToHexAndBinary\bin\Debug\24.IntegerToHexAndBinary.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\24.IntegerToHexAndBinary\bin\Debug\24.IntegerToHexAndBinary.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\24.IntegerToHexAndBinary\obj\Debug\24.IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\24.IntegerToHexAndBinary\obj\Debug\24.IntegerToHexAndBinary.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\24.IntegerToHexAndBinary\obj\Debug\24.IntegerToHexAndBinary.pdb

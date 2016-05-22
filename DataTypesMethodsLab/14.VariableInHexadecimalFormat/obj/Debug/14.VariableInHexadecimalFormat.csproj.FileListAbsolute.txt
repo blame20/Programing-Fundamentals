@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\14.VariableInHexadecimalFormat\bin\Debug\14.VariableInHexadecimalFormat.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\14.VariableInHexadecimalFormat\bin\Debug\14.VariableInHexadecimalFormat.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\14.VariableInHexadecimalFormat\bin\Debug\14.VariableInHexadecimalFormat.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\14.VariableInHexadecimalFormat\obj\Debug\14.VariableInHexadecimalFormat.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\14.VariableInHexadecimalFormat\obj\Debug\14.VariableInHexadecimalFormat.pdb

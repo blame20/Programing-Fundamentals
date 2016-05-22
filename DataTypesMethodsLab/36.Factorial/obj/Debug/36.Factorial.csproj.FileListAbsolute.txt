@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\36.Factorial\bin\Debug\36.Factorial.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\36.Factorial\bin\Debug\36.Factorial.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\36.Factorial\bin\Debug\36.Factorial.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\36.Factorial\obj\Debug\36.Factorial.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\36.Factorial\obj\Debug\36.Factorial.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\36.Factorial\obj\Debug\36.Factorial.pdb

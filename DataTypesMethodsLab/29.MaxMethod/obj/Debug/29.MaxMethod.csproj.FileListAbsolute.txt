@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\29.MaxMethod\bin\Debug\29.MaxMethod.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\29.MaxMethod\bin\Debug\29.MaxMethod.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\29.MaxMethod\bin\Debug\29.MaxMethod.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\29.MaxMethod\obj\Debug\29.MaxMethod.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\29.MaxMethod\obj\Debug\29.MaxMethod.pdb

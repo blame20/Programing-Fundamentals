@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\03.ExactSumRealNumbers\bin\Debug\03.ExactSumRealNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\03.ExactSumRealNumbers\bin\Debug\03.ExactSumRealNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\03.ExactSumRealNumbers\bin\Debug\03.ExactSumRealNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\03.ExactSumRealNumbers\obj\Debug\03.ExactSumRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\03.ExactSumRealNumbers\obj\Debug\03.ExactSumRealNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\03.ExactSumRealNumbers\obj\Debug\03.ExactSumRealNumbers.pdb

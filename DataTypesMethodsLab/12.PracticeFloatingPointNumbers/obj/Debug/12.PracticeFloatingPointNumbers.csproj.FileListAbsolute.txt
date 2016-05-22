@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\12.PracticeFloatingPointNumbers\bin\Debug\12.PracticeFloatingPointNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\12.PracticeFloatingPointNumbers\bin\Debug\12.PracticeFloatingPointNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\12.PracticeFloatingPointNumbers\bin\Debug\12.PracticeFloatingPointNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\12.PracticeFloatingPointNumbers\obj\Debug\12.PracticeFloatingPointNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\12.PracticeFloatingPointNumbers\obj\Debug\12.PracticeFloatingPointNumbers.pdb

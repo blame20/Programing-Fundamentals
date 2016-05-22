@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\17.ExchangeVariableValues\bin\Debug\17.ExchangeVariableValues.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\17.ExchangeVariableValues\bin\Debug\17.ExchangeVariableValues.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\17.ExchangeVariableValues\bin\Debug\17.ExchangeVariableValues.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\17.ExchangeVariableValues\obj\Debug\17.ExchangeVariableValues.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\17.ExchangeVariableValues\obj\Debug\17.ExchangeVariableValues.pdb

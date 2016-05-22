@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\03.ArrayTest\bin\Debug\03.ArrayTest.exe.config
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\03.ArrayTest\bin\Debug\03.ArrayTest.exe
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\03.ArrayTest\bin\Debug\03.ArrayTest.pdb
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\03.ArrayTest\obj\Debug\03.ArrayTest.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\03.ArrayTest\obj\Debug\03.ArrayTest.exe
+C:\Users\blame\Desktop\VSprojects\ProgramingFundamentals\03.ArrayTest\obj\Debug\03.ArrayTest.pdb

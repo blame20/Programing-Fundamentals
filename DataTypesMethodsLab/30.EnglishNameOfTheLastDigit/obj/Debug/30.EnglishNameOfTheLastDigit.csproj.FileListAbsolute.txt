@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\30.EnglishNameOfTheLastDigit\bin\Debug\30.EnglishNameOfTheLastDigit.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\30.EnglishNameOfTheLastDigit\bin\Debug\30.EnglishNameOfTheLastDigit.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\30.EnglishNameOfTheLastDigit\bin\Debug\30.EnglishNameOfTheLastDigit.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\30.EnglishNameOfTheLastDigit\obj\Debug\30.EnglishNameOfTheLastDigit.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\30.EnglishNameOfTheLastDigit\obj\Debug\30.EnglishNameOfTheLastDigit.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\30.EnglishNameOfTheLastDigit\obj\Debug\30.EnglishNameOfTheLastDigit.pdb

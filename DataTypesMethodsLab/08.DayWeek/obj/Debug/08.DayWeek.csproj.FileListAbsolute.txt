@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\08.DayWeek\bin\Debug\08.DayWeek.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\08.DayWeek\bin\Debug\08.DayWeek.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\08.DayWeek\bin\Debug\08.DayWeek.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\08.DayWeek\obj\Debug\08.DayWeek.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\08.DayWeek\obj\Debug\08.DayWeek.pdb

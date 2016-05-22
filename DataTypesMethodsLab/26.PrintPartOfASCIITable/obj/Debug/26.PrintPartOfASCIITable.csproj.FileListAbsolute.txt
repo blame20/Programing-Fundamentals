@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\26.PrintPartOfASCIITable\bin\Debug\26.PrintPartOfASCIITable.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\26.PrintPartOfASCIITable\bin\Debug\26.PrintPartOfASCIITable.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\26.PrintPartOfASCIITable\bin\Debug\26.PrintPartOfASCIITable.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\26.PrintPartOfASCIITable\obj\Debug\26.PrintPartOfASCIITable.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\26.PrintPartOfASCIITable\obj\Debug\26.PrintPartOfASCIITable.pdb

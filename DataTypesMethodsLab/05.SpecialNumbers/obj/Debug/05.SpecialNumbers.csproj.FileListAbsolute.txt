@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+C:\Users\blame\Desktop\VSprojects\DataTypesMethodsLab\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb
