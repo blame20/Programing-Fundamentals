@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\08.SumArrays\bin\Debug\08.SumArrays.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\08.SumArrays\bin\Debug\08.SumArrays.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\08.SumArrays\bin\Debug\08.SumArrays.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\08.SumArrays\obj\Debug\08.SumArrays.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\08.SumArrays\obj\Debug\08.SumArrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\14.PrimeNumbers\bin\Debug\14.PrimeNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\14.PrimeNumbers\bin\Debug\14.PrimeNumbers.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\14.PrimeNumbers\bin\Debug\14.PrimeNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\14.PrimeNumbers\obj\Debug\14.PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\14.PrimeNumbers\obj\Debug\14.PrimeNumbers.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\14.PrimeNumbers\obj\Debug\14.PrimeNumbers.pdb

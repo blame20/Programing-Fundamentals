@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\05.TrippleSum\bin\Debug\05.TrippleSum.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\05.TrippleSum\bin\Debug\05.TrippleSum.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\05.TrippleSum\bin\Debug\05.TrippleSum.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\05.TrippleSum\obj\Debug\05.TrippleSum.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\05.TrippleSum\obj\Debug\05.TrippleSum.pdb

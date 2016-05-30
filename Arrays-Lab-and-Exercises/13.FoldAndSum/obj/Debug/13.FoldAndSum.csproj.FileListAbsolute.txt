@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\13.FoldAndSum\bin\Debug\13.FoldAndSum.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\13.FoldAndSum\bin\Debug\13.FoldAndSum.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\13.FoldAndSum\bin\Debug\13.FoldAndSum.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\13.FoldAndSum\obj\Debug\13.FoldAndSum.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\13.FoldAndSum\obj\Debug\13.FoldAndSum.pdb

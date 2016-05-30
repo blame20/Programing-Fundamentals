@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\12.RotateAndSum\bin\Debug\12.RotateAndSum.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\12.RotateAndSum\bin\Debug\12.RotateAndSum.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\12.RotateAndSum\bin\Debug\12.RotateAndSum.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\12.RotateAndSum\obj\Debug\12.RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\12.RotateAndSum\obj\Debug\12.RotateAndSum.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\12.RotateAndSum\obj\Debug\12.RotateAndSum.pdb

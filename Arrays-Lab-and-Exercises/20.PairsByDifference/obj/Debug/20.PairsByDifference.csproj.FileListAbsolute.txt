@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\20.PairsByDifference\bin\Debug\20.PairsByDifference.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\20.PairsByDifference\bin\Debug\20.PairsByDifference.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\20.PairsByDifference\bin\Debug\20.PairsByDifference.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\20.PairsByDifference\obj\Debug\20.PairsByDifference.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\20.PairsByDifference\obj\Debug\20.PairsByDifference.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\20.PairsByDifference\obj\Debug\20.PairsByDifference.pdb

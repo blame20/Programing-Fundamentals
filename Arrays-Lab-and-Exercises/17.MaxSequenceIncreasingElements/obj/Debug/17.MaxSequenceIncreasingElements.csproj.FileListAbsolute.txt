@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\17.MaxSequenceIncreasingElements\bin\Debug\17.MaxSequenceIncreasingElements.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\17.MaxSequenceIncreasingElements\bin\Debug\17.MaxSequenceIncreasingElements.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\17.MaxSequenceIncreasingElements\bin\Debug\17.MaxSequenceIncreasingElements.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\17.MaxSequenceIncreasingElements\obj\Debug\17.MaxSequenceIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\17.MaxSequenceIncreasingElements\obj\Debug\17.MaxSequenceIncreasingElements.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\17.MaxSequenceIncreasingElements\obj\Debug\17.MaxSequenceIncreasingElements.pdb

@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\06.RoundingNumbers\obj\Debug\06.RoundingNumbers.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\06.RoundingNumbers\obj\Debug\06.RoundingNumbers.pdb

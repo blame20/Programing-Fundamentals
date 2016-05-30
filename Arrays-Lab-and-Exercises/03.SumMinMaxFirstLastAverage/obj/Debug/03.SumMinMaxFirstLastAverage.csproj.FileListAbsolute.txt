@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.pdb

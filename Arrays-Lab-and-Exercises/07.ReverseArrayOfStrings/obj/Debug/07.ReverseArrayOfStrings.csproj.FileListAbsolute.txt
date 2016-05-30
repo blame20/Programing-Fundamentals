@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\07.ReverseArrayOfStrings\obj\Debug\07.ReverseArrayOfStrings.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\07.ReverseArrayOfStrings\obj\Debug\07.ReverseArrayOfStrings.pdb

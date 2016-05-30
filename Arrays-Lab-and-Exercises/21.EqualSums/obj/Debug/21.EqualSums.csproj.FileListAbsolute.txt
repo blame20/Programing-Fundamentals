@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\21.EqualSums\bin\Debug\21.EqualSums.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\21.EqualSums\bin\Debug\21.EqualSums.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\21.EqualSums\bin\Debug\21.EqualSums.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\21.EqualSums\obj\Debug\21.EqualSums.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\21.EqualSums\obj\Debug\21.EqualSums.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\21.EqualSums\obj\Debug\21.EqualSums.pdb

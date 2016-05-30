@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.pdb

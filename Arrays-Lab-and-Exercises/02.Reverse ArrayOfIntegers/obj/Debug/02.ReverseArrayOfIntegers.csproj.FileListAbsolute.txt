@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.Reverse ArrayOfIntegers\bin\Debug\02.Reverse ArrayOfIntegers.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.Reverse ArrayOfIntegers\bin\Debug\02.Reverse ArrayOfIntegers.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.Reverse ArrayOfIntegers\bin\Debug\02.Reverse ArrayOfIntegers.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.Reverse ArrayOfIntegers\obj\Debug\02.Reverse ArrayOfIntegers.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.Reverse ArrayOfIntegers\obj\Debug\02.Reverse ArrayOfIntegers.pdb

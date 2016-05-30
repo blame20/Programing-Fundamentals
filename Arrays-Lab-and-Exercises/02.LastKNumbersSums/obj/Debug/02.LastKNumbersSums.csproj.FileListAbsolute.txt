@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.LastKNumbersSums\bin\Debug\02.LastKNumbersSums.exe.config
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.LastKNumbersSums\bin\Debug\02.LastKNumbersSums.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.LastKNumbersSums\bin\Debug\02.LastKNumbersSums.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.LastKNumbersSums\obj\Debug\02.LastKNumbersSums.exe
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.LastKNumbersSums\obj\Debug\02.LastKNumbersSums.pdb
+C:\Users\blame\Desktop\VSprojects\Arrays-Lab-and-Exercises\02.LastKNumbersSums\obj\Debug\02.LastKNumbersSums.csprojResolveAssemblyReference.cache
